@@ -1,3 +1,3 @@
-# Codsodt_Task2
+# Codsoft_Task2
 COdsoft_Task2:  Landing Page
 This HTML and CSS landing page was created as part of the CodSoft Virtual Internship to showcase a vibrant concert booking experience. The background features an energetic crowd, while the foreground highlights a musical theme with notes and colorful visuals. A concise form allows users to “Book For The Concert” by submitting their name and email, making it both visually engaging and practical. The layout is responsive, ensuring smooth viewing on various devices without using any JavaScript. It aims to capture the excitement of live music and provide a simple, eye-catching way to gather attendee information. Feel free to clone, explore, and modify this repository for your own projects!
